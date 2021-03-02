@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Cyber2f08/Cyber2f08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My mask name : Cyber2f08
+My Github : ✨https://github.com/Cyber2f08/✨
 
-Here are some ideas to get you started:
+What im gonna do:
 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning Python, PHP, CSS
@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about animal
 - 📫 How to reach me: Mars👀
 - ⚡ Fun fact: Bird cannot fly without learning how to fly!
--->
 
-<br/>
-<a href="https://www.buymeacoffee.com/farizdotid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" ></a>
-<br/>
+TODO:
+ - 🛠 Learning Python
+ - 🗿 Contributing Open Source
+ - 💻 Getting Popular
+ - 😎 Having a good live
+ - 😁 Have a job
+ - 🕶 Getting followed!
+
+<h1>🎉🎉!WELCOME!🎉🎉</h1>

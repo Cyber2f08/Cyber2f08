@@ -8,17 +8,15 @@ Hello there human!
 
 > [`Donate`](https://saweria.co/cyber2f08/) me
 
+> [`Instagram`](https://www.instagram.com/Cyber2f08) me
+
 > [`Tweet`](https://twitter.com/cyber2f08/) me
 
 My mask name : 
 * [`Cyber2f08`](https://github.com/Cyber2f08/)
-
-My Github : 
- {✨https://github.com/Cyber2f08/✨}
-
 # TODO:
 ```
- > 🛠 Learning Python
+ > 🛠 Learning
  > 🗿 Contributing Open Source
  > 💻 Getting Popular
  > 😎 Having a good live
